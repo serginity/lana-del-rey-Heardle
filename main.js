@@ -919,7 +919,7 @@ var app = (function () {
             n,
             "title",
             (d =
-              "Listen to " +
+              "Listen to Lana Del Rey " +
               e[1].artist +
               " - " +
               e[1].title +
