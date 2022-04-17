@@ -831,10 +831,6 @@ a:active {
     --color-shade: rgba(0, 0, 0, 0.1);
     --color-highlight: rgba(255, 255, 255, 0.05)
 }
-a:hover {
-    color: var(--color-positive);
-    opacity: 0.8;
-}
 @media(min-width: 640px) {}
 @media(min-width: 768px) {}
 @media(min-width: 1024px) {}
