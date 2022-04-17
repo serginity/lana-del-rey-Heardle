@@ -8691,51 +8691,18 @@ var app = (function () {
     On = {
       subscribe: ue(
         [
-          {
-            url: "https://soundcloud.com/lana-del-rey/watercolor-eyes-from-euphoria",
-            answer: "Watercolor Eyes (From “Euphoria” An HBO Original Series)",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/beautiful",
-            answer: "Beautiful",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/interlude-the-trio",
-            answer: "Interlude - The Trio",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/living-legend",
-            answer: "Living Legend",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/sweet-carolina",
-            answer: "Sweet Carolina",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/dealer",
-            answer: "Dealer",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/if-you-lie-down-with-me",
-            answer: "If You Lie Down With Me",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/thunder",
-            answer: "Thunder",
-          },
+          { url: "https://soundcloud.com/lana-del-rey/watercolor-eyes-from-euphoria", answer: "Watercolor Eyes (From “Euphoria” An HBO Original Series)",},
+          { url: "https://soundcloud.com/lana-del-rey/beautiful", answer: "Beautiful",},
+          { url: "https://soundcloud.com/lana-del-rey/interlude-the-trio", answer: "Interlude - The Trio",},
+          { url: "https://soundcloud.com/lana-del-rey/living-legend", answer: "Living Legend",},
+          { url: "https://soundcloud.com/lana-del-rey/sweet-carolina", answer: "Sweet Carolina",},
+          { url: "https://soundcloud.com/lana-del-rey/dealer", answer: "Dealer",},
+          { url: "https://soundcloud.com/lana-del-rey/if-you-lie-down-with-me", answer: "If You Lie Down With Me",},
+          { url: "https://soundcloud.com/lana-del-rey/thunder", answer: "Thunder",},
           { url: "https://soundcloud.com/lana-del-rey/violets-for-roses", answer: "Violets for Roses", },
-          {
-            url: "https://soundcloud.com/lana-del-rey/cherry-blossom",
-            answer: "Cherry Blossom",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/nectar-of-the-gods",
-            answer: "Nectar Of The Gods",
-          },
-          {
-            url: "https://soundcloud.com/lana-del-rey/black-bathing-suit",
-            answer: "Black Bathing Suit",
-          },
+          { url: "https://soundcloud.com/lana-del-rey/cherry-blossom", answer: "Cherry Blossom",},
+          { url: "https://soundcloud.com/lana-del-rey/nectar-of-the-gods", answer: "Nectar Of The Gods",},
+          { url: "https://soundcloud.com/lana-del-rey/black-bathing-suit", answer: "Black Bathing Suit", },
           { url: "https://soundcloud.com/lana-del-rey/Arcadia", answer: "Arcadia" },
           { url: "https://soundcloud.com/lana-del-rey/Blue-Banisters", answer: "Blue Banisters" },
           { url: "https://soundcloud.com/lana-del-rey/Wildflower-Wildfire", answer: "Wildflower Wildfire" },
