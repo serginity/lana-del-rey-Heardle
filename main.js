@@ -712,7 +712,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Taylor Swift Heardle"),
+            (u.textContent = "Lana Del Rey Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -3851,7 +3851,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM me @beachboysstan on twitter! <br><br> In order to abide by copyright laws, this game is powered by Soundcloud. If the song isn\'t available in your country on Soundcloud, you can check out <a href=\"https://www.techyonic.co/swiftle\" title=\"Heardle\">Swiftle</a>, a similar Taylor Swift Heardle game!'),
+              'Have questions/run into bugs? DM me @beachboysstan on twitter! <br><br> In order to abide by copyright laws, this game is powered by Soundcloud. If the song isn\'t available in your country on Soundcloud, you can check out <a href=\"https://www.techyonic.co/swiftle\" title=\"Heardle\">Swiftle</a>, a similar Lana Del Rey Heardle game!'),
             (r = x()),
             (s = w("p")),
             // (s.innerHTML =
@@ -4026,14 +4026,14 @@ var app = (function () {
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
-            (k.textContent = "Next Taylor Swift song in:"),
+            (k.textContent = "Next Lana Del Rey song in:"),
             (b = x()),
             Q(S.$$.fragment),
             (D = x()),
             (T = w("div")),
             (Y = w("div")),
             // (Y.innerHTML =
-            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Taylor Swift Heardle?</span>'),
+            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Lana Del Rey Heardle?</span>'),
             (C = x()),
             Q(O.$$.fragment),
             M(n, "class", "text-lg text-custom-line"),
@@ -4242,7 +4242,7 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("You got today's Taylor Swift Heardle within the first ")),
+        (t = _("You got today's Lana Del Rey Heardle within the first ")),
           (n = _(s)),
           (r = _(" seconds."));
       },
@@ -4269,7 +4269,7 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got today's Taylor Swift Heardle within ")),
+        (t = _("You got today's Lana Del Rey Heardle within ")),
           (n = _(o)),
           (r = _("\n                second")),
           (s = _(a)),
@@ -4300,7 +4300,7 @@ var app = (function () {
     return {
       c() {
         n = _(
-          "You didn't get today's Taylor Swift Heardle. Better luck tomorrow! 💎"
+          "You didn't get today's Lana Del Rey Heardle. Better luck tomorrow! 💎"
         );
       },
       m(e, t) {
@@ -4443,7 +4443,7 @@ var app = (function () {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "Taylor Swift Heardle #" + (s.id + 1),
+          let e = "Lana Del Rey Heardle #" + (s.id + 1),
             t = "";
           a
             ? r.length < i.maxAttempts / 3
@@ -4554,7 +4554,7 @@ var app = (function () {
           (t = w("div")),
             (n = w("div")),
             (n.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct Taylor Swift song in the list.</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct Lana Del Rey song in the list.</p></div>'),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
@@ -8708,7 +8708,7 @@ var app = (function () {
   "You Need to Calm Down",
   "SuperStar (Taylor’s Version)",
   "Bye Bye Baby (From The Vault)",
-  "Delicate - Taylor Swift,",
+  "Delicate - Lana Del Rey,",
   "Last Kiss",
   "peace",
   "Forever & Always (Taylor’s Version)",
@@ -8866,15 +8866,15 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/dress",
-            answer: "Dress - Taylor Swift",
+            answer: "Dress - Lana Del Rey",
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/dorothea",
-            answer: "dorothea - Taylor Swift",
+            answer: "dorothea - Lana Del Rey",
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/closure",
-            answer: "closure - Taylor Swift",
+            answer: "closure - Lana Del Rey",
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/you-belong-with-me-taylors",
@@ -8882,7 +8882,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/august",
-            answer: "august - Taylor Swift",
+            answer: "august - Lana Del Rey",
           },
           {
             url: "https://soundcloud.com/taylorswiftofficial/mr-perfectly-fine-taylors",
@@ -9791,12 +9791,12 @@ var app = (function () {
           Q(Y.$$.fragment),
           (C = x()),
           H && H.c(),
-          (An.title = "Taylor Swift Heardle"),
+          (An.title = "Lana Del Rey Heardle"),
           M(t, "name", "description"),
           M(
             t,
             "content",
-            "Guess the Taylor Swift song from the intro in as few tries as possible"
+            "Guess the Lana Del Rey song from the intro in as few tries as possible"
           ),
           M(n, "rel", "apple-touch-icon"),
           M(n, "sizes", "180x180"),
