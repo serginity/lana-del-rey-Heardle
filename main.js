@@ -3638,7 +3638,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">Made by <a href="https://twitter.com/serginity" title="Twitter">@serginity</a>. A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for Lana del Rey songs.</p> \n\n<p class="mb-3">Each Lana del Rey Heardle is randomly chosen from Lana del Rey\'s discography.</p> \n\n\n\n <p class="mb-3">Support the original Heardle devs <a href="https://ko-fi.com/heardle">here</a>.</p> \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            '<p class="mb-3">Made by <a href="https://twitter.com/serginity" title="Twitter">@serginity</a>. A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, <a href="https://taylor-swift-heardle.glitch.me/" title="Taylor Swift Heardle">Taylor Swift Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for Lana del Rey songs.</p> \n\n<p class="mb-3">Each Lana del Rey Heardle is randomly chosen from Lana del Rey\'s discography.</p> \n\n\n\n <p class="mb-3">Support the original Heardle devs <a href="https://ko-fi.com/heardle">here</a>.</p> \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -3851,11 +3851,9 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM me @beachboysstan on twitter! <br><br> In order to abide by copyright laws, this game is powered by Soundcloud. If the song isn\'t available in your country on Soundcloud, you can check out <a href=\"https://www.techyonic.co/swiftle\" title=\"Heardle\">Swiftle</a>, a similar Lana Del Rey Heardle game!'),
+              'Have questions/run into bugs? DM me @serginity on twitter! <br><br> In order to abide by copyright laws, this game is powered by Soundcloud.'),
             (r = x()),
             (s = w("p")),
-            // (s.innerHTML =
-            //   '<p class="mb-3">If you\'ve enjoyed playing SEVENTEEN Heardle and would like to support the Heardle devs with server costs to keep the original game running, then please consider supporting the <a href="https://ko-fi.com/heardle">real Heardle devs</a>.</p>'),
             (i = x()),
             (o = w("div")),
             Q(a.$$.fragment),
